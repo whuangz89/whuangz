@@ -6,12 +6,12 @@
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I am Basketball Player and crypto trader
+- 🪄 github.com/WHuangz88
 
 ### Connect with me:
 
 [<img align="left" alt="whuangz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
 [<img align="left" alt="whuangz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
-[<img align="left" alt="whuangz | LinkedIn" width="22px" src="httpshttps://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
 
 <br />
 
