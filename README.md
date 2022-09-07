@@ -34,3 +34,4 @@
 
 [website]: https://whuangz.xyz
 [linkedin]: https://linkedin.com/in/whuangz
+[github]: https://github.com/WHuangz88
