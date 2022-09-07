@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I am Basketball Player and crypto trader
-- 🪄 github.com/WHuangz88
+- 🪄 <a href="https://github.com/WHuangz88"/> Secondary
 
 ### Connect with me:
 
