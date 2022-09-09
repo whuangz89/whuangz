@@ -5,7 +5,7 @@
 ## I'm an Trader, Developer, and Startup Enthuthiast!!
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I am Basketball Player and crypto trader
+- ⚡ Fun fact: Crypto trader
 - 🪄 <a href="https://github.com/WHuangz88"/> Secondary
 
 ### Connect with me:
